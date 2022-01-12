@@ -25,7 +25,7 @@ Tehtävässä on saatettu käyttää apuna dillinger.io:ta jonka avulla voi live
 ```}
 ```
 
-## Forkkaaminen
+## Kloonaaminen
 '_Cloonaaminen on pirun helppoa_' ~ Pekki :googly_eyes:
 >Kloonamalla githubista kopioit julkista repositoriota, tämä voi myös olla yksityinen mutta sinulla pitää olla tietyt oikeudet reppiin kopioidaksesi sen
 >Kopioidaksesi jotain voit valita haluamasi kohde kansion komennolla  _cd kohde-drive/kansio1/kansio2/kansio3/kohde-kansio_ cmd tai muun terminaalin kautta
